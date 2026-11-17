@@ -81,6 +81,7 @@
 - **[Exodus Mobile](https://www.exodus.com/mobile/)** - The mobile version of the popular Exodus wallet, featuring a built-in exchange.
 - **[BlueWallet](https://bluewallet.io/)** - A mobile Bitcoin wallet with Lightning Network support.
 - **[Crypto.com Wallet](https://crypto.com/defi-wallet)** - A non-custodial mobile wallet by Crypto.com for storing and managing crypto assets.
+- **[Plaxswap Wallet](https://plaxswap.com/crypto-wallet)** - A non-custodial wallet for Android and the web where only you hold the recovery phrase, with a built-in swap.
 
 ## Team Wallets
 
